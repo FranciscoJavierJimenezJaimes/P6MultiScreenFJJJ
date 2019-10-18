@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P6FJJJ</string>
+    <string name="imagen">imagen</string>
+    <string name="pantalla">Estamos en una tablet</string>
+    <string name="bpreciona">pulsa aqui</string>
+    <string name="pantalla1">Estamos en un celular</string>
+
+</resources>
